@@ -1,4 +1,4 @@
-# Calculation of thermal conductivity (TD), thermal diffusivity (TD) and speciﬁc heat capacity (SHC) of sedimentary rocks using petrophysical well logs.
+# prediction of thermal conductivity (TD), thermal diffusivity (TD) and speciﬁc heat capacity (SHC) of sedimentary rocks using petrophysical well logs.
 Abstract
 
 In this study, equations are developed that predict for synthetic sedimentary rocks (clastics,
