@@ -7,11 +7,6 @@ capacity and thermal diffusivity.
 
 Guide for use ML and Dl models
 
-1 - \n
-2 -
-3 -
-4 -
-5 -
 
 Keyword: Downhole methods; Heat ﬂow; Sedimentary basin processes; Heat generation and transport; Europe. 
 
