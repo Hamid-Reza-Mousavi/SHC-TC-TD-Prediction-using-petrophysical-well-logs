@@ -81,6 +81,13 @@ ${\color{red} FIVE-Log}$	 <br />
 ${\color{red} SIX-Log}$	 <br />
 63- ['RHOB', 'PHIN', 'VSH', 'U', 'DT', 'AI'] <br />
 <hr />
+** Top SHC for each model **
+
+| Model                                         | R2         | MAE           |      RMS   | 
+|-----------------------------------------------|:----------:|---------------|------------|
+| LinearRegression                              | **0.998**  | **23.897**  | **30.642**   | 
+| Polynomial regression - degree=2)             | **0.999**  | **13.473**  | **17.808**   |
+| XGB                                           | **0.999**  | **1.528**   | **2.575**    |
 
 Keyword: Downhole methods; Heat ﬂow; Sedimentary basin processes; Heat generation and transport; Europe. 
 
