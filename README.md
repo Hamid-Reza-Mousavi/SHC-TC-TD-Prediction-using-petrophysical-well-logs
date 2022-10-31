@@ -6,7 +6,7 @@ capacity and thermal diffusivity.
 
 Keyword: Downhole methods; Heat ﬂow; Sedimentary basin processes; Heat generation and transport; Europe. 
 
-### Guide for use models <br />
+### Guide <br />
 <hr />
 ${\color{red} ONE-Log}$	 <br />
 1-  ['RHOB'] <br />
