@@ -81,7 +81,7 @@ ${\color{red} FIVE-Log}$	 <br />
 ${\color{red} SIX-Log}$	 <br />
 63- ['RHOB', 'PHIN', 'VSH', 'U', 'DT', 'AI'] <br />
 <hr />
-** Top SHC for each model (use Six-log) **
+** Top SHC for each model (For Six-log) **
 
 | Model                                         | R2         | MAE           |      RMS   | 
 |-----------------------------------------------|:----------:|---------------|------------|
