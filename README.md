@@ -4,6 +4,8 @@ In this study, equations are developed that predict for synthetic sedimentary ro
 carbonates and evapourates) thermal properties comprising thermal conductivity, speciﬁc heat
 capacity and thermal diffusivity.
 
+Keyword: Downhole methods; Heat ﬂow; Sedimentary basin processes; Heat generation and transport; Europe. 
+
 ### Guide for use models <br />
 <hr />
 ${\color{red} ONE-Log}$	 <br />
@@ -102,6 +104,4 @@ ${\color{red} SIX-Log}$	 <br />
 |-----------------------------------------------|:----------:|---------------|----------------|
 | LinearRegression                              | **0.972**  | **0.049**     | **0.069**      | 
 | Polynomial regression (degree=2)              | **0.991**  | **0.024**     | **0.039**      |
-
-Keyword: Downhole methods; Heat ﬂow; Sedimentary basin processes; Heat generation and transport; Europe. 
 
