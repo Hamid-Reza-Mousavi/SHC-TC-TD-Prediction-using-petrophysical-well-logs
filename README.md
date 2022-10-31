@@ -6,7 +6,7 @@ capacity and thermal diffusivity.
 
 ### Guide for use models <br />
 <hr />
-1 Log <br />
+${\color{red} ONE-Log}$	 <br />
 1-  ['RHOB'] <br />
 2-  ['PHIN'] <br />
 3-  ['VSH']<br />
@@ -14,7 +14,7 @@ capacity and thermal diffusivity.
 5-  ['DT'] <br />
 6-  ['AI'] <br />
 <hr />
-2 Log <br />
+${\color{red} TWO-Log}$	 <br />
 7-  ['RHOB', 'PHIN'] <br />
 8-  ['RHOB', 'VSH'] <br />
 9-  ['RHOB', 'U'] <br />
@@ -31,7 +31,7 @@ capacity and thermal diffusivity.
 20- ['U', 'AI'] <br />
 21- ['DT', 'AI'] <br />
 <hr />
-3 Log <br />
+${\color{red} THREE-Log}$	 <br />
 22- ['RHOB', 'PHIN', 'VSH'] <br />
 23- ['RHOB', 'PHIN', 'U'] <br />
 24- ['RHOB', 'PHIN', 'DT'] <br />
@@ -53,7 +53,7 @@ capacity and thermal diffusivity.
 40- ['VSH', 'DT', 'AI'] <br />
 41- ['U', 'DT', 'AI'] <br />
 <hr />
-4 Log <br />
+${\color{red} FOUR-Log}$	 <br />
 42- ['RHOB', 'PHIN', 'VSH', 'U'] <br />
 43- ['RHOB', 'PHIN', 'VSH', 'DT'] <br />
 44- ['RHOB', 'PHIN', 'VSH', 'AI'] <br />
@@ -70,7 +70,7 @@ capacity and thermal diffusivity.
 55- ['PHIN', 'U', 'DT', 'AI'] <br />
 56- ['VSH', 'U', 'DT', 'AI'] <br />
 <hr />
-5 Log <br />
+${\color{red} FIVE-Log}$	 <br />
 57- ['RHOB', 'PHIN', 'VSH', 'U', 'DT'] <br />
 58- ['RHOB', 'PHIN', 'VSH', 'U', 'AI'] <br />
 59- ['RHOB', 'PHIN', 'VSH', 'DT', 'AI'] <br />
@@ -78,7 +78,7 @@ capacity and thermal diffusivity.
 61- ['RHOB', 'VSH', 'U', 'DT', 'AI'] <br />
 62- ['PHIN', 'VSH', 'U', 'DT', 'AI'] <br />
 <hr />
-6 Log <br />
+${\color{red} SIX-Log}$	 <br />
 63- ['RHOB', 'PHIN', 'VSH', 'U', 'DT', 'AI'] <br />
 <hr />
 
