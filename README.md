@@ -83,25 +83,25 @@ ${\color{red} SIX-Log}$	 <br />
 <hr />
 ** Top SHC for each model (For Six-log) **
 
-| Model                                         | R2         | MAE           |      RMS   | 
-|-----------------------------------------------|:----------:|---------------|------------|
-| LinearRegression                              | **0.998**  | **23.897**  | **30.642**   | 
-| Polynomial regression (degree=2)              | **0.999**  | **13.473**  | **17.808**   |
-| XGB                                           | **0.999**  | **1.528**   | **2.575**    |
+| Model                                         | R2         | MAE           |      RMS       | 
+|-----------------------------------------------|:----------:|---------------|----------------|
+| LinearRegression                              | **0.998**  | **23.897**    | **30.642**     | 
+| Polynomial regression (degree=2)              | **0.999**  | **13.473**    | **17.808**     |
+| XGB                                           | **0.999**  | **1.528**     | **2.575**      | 
 
 ** Top TC for each model (For Six-log) **
 
-| Model                                         | R2         | MAE           |      RMS   | 
-|-----------------------------------------------|:----------:|---------------|------------|
-| LinearRegression                              | **0.962**  | **0.115**     | **0.156**  | 
-| Polynomial regression (degree=2)              | **0.993**  | **0.043**     | **0.067**  |
+| Model                                         | R2         | MAE           |      RMS       | 
+|-----------------------------------------------|:----------:|---------------|----------------|
+| LinearRegression                              | **0.962**  | **0.115**     | **0.156**      | 
+| Polynomial regression (degree=2)              | **0.993**  | **0.043**     | **0.067**      |
 
 ** Top TD for each model (For Six-log) **
 
 | Model                                         | R2         | MAE           |      RMS   | 
-|-----------------------------------------------|:----------:|---------------|------------|
-| LinearRegression                              | **0.972**  | **0.049**     | **0.069**  | 
-| Polynomial regression (degree=2)              | **0.991**  | **0.024**     | **0.039**  |
+|-----------------------------------------------|:----------:|---------------|----------------|
+| LinearRegression                              | **0.972**  | **0.049**     | **0.069**      | 
+| Polynomial regression (degree=2)              | **0.991**  | **0.024**     | **0.039**      |
 
 Keyword: Downhole methods; Heat ﬂow; Sedimentary basin processes; Heat generation and transport; Europe. 
 
