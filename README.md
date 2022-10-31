@@ -13,7 +13,7 @@ ${\color{red} ONE-Log}$	 <br />
 4-  ['U'] <br />
 5-  ['DT'] <br />
 6-  ['AI'] <br />
-<hr />
+<br />
 ${\color{red} TWO-Log}$	 <br />
 7-  ['RHOB', 'PHIN'] <br />
 8-  ['RHOB', 'VSH'] <br />
@@ -30,7 +30,7 @@ ${\color{red} TWO-Log}$	 <br />
 19- ['U', 'DT'] <br />
 20- ['U', 'AI'] <br />
 21- ['DT', 'AI'] <br />
-<hr />
+<br />
 ${\color{red} THREE-Log}$	 <br />
 22- ['RHOB', 'PHIN', 'VSH'] <br />
 23- ['RHOB', 'PHIN', 'U'] <br />
@@ -52,7 +52,7 @@ ${\color{red} THREE-Log}$	 <br />
 39- ['VSH', 'U', 'AI'] <br />
 40- ['VSH', 'DT', 'AI'] <br />
 41- ['U', 'DT', 'AI'] <br />
-<hr />
+<br />
 ${\color{red} FOUR-Log}$	 <br />
 42- ['RHOB', 'PHIN', 'VSH', 'U'] <br />
 43- ['RHOB', 'PHIN', 'VSH', 'DT'] <br />
@@ -69,7 +69,7 @@ ${\color{red} FOUR-Log}$	 <br />
 54- ['PHIN', 'VSH', 'DT', 'AI'] <br />
 55- ['PHIN', 'U', 'DT', 'AI'] <br />
 56- ['VSH', 'U', 'DT', 'AI'] <br />
-<hr />
+<br />
 ${\color{red} FIVE-Log}$	 <br />
 57- ['RHOB', 'PHIN', 'VSH', 'U', 'DT'] <br />
 58- ['RHOB', 'PHIN', 'VSH', 'U', 'AI'] <br />
@@ -77,7 +77,7 @@ ${\color{red} FIVE-Log}$	 <br />
 60- ['RHOB', 'PHIN', 'U', 'DT', 'AI'] <br />
 61- ['RHOB', 'VSH', 'U', 'DT', 'AI'] <br />
 62- ['PHIN', 'VSH', 'U', 'DT', 'AI'] <br />
-<hr />
+<br />
 ${\color{red} SIX-Log}$	 <br />
 63- ['RHOB', 'PHIN', 'VSH', 'U', 'DT', 'AI'] <br />
 <hr />
