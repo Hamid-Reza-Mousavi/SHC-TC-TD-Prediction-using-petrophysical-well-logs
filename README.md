@@ -83,7 +83,7 @@ ${\color{red} FIVE-Log}$	 <br />
 ${\color{red} SIX-Log}$	 <br />
 63- ['RHOB', 'PHIN', 'VSH', 'U', 'DT', 'AI'] <br />
 <hr />
-** Top SHC for each model (For Six-log) **
+** Carbonates >>> Top SHC for each model (For Six-log) **
 
 | Model                                         | R2         | MAE           |      RMS       | 
 |-----------------------------------------------|:----------:|---------------|----------------|
@@ -91,14 +91,14 @@ ${\color{red} SIX-Log}$	 <br />
 | Polynomial regression (degree=2)              | **0.999**  | **13.473**    | **17.808**     |
 | XGB                                           | **0.999**  | **1.528**     | **2.575**      | 
 
-** Top TC for each model (For Six-log) **
+** Carbonates >>> Top TC for each model (For Six-log) **
 
 | Model                                         | R2         | MAE           |      RMS       | 
 |-----------------------------------------------|:----------:|---------------|----------------|
 | LinearRegression                              | **0.962**  | **0.115**     | **0.156**      | 
 | Polynomial regression (degree=2)              | **0.993**  | **0.043**     | **0.067**      |
 
-** Top TD for each model (For Six-log) **
+** Carbonates >>> Top TD for each model (For Six-log) **
 
 | Model                                         | R2         | MAE           |      RMS   | 
 |-----------------------------------------------|:----------:|---------------|----------------|
