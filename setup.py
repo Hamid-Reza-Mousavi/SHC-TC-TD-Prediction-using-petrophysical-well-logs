@@ -5,8 +5,8 @@ setup(
         version="1.0.0",
         url="https://github.com/Esfahani98/SHC-TC-TD-Prediction.git",
         author="Hamid reza mousavi",
-        license="MIT",
+        license="IUST",
         packages=["Models"],
         include_package_data=True,
-        install_requires=["numpy"]
+        install_requires=["numpy, pandas, sklearn"]
 )
