@@ -9,7 +9,7 @@ Keyword: Downhole methods; Heat ﬂow; Sedimentary basin processes; Heat generat
 ### Guide <br />
 <hr />
 <p align="center">
-  <img width="616" src="https://raw.githubusercontent.com/slundberg/shap/master/docs/artwork/boston_waterfall.png" />
+  <img width="616" src="https://raw.githubusercontent.com/Esfahani98/SHC-TC-TD-Prediction-using-petrophysical-well-logs/blob/main/img/ex.png" />
 </p>
 ${\color{red} ONE-Log}$	 <br />
 1-  ['RHOB'] <br />
