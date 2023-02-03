@@ -12,6 +12,8 @@ Keyword: Downhole methods; Heat ﬂow; Sedimentary basin processes; Heat generat
   <img width="800" src="https://github.com/Esfahani98/SHC-TC-TD-Prediction-using-petrophysical-well-logs/blob/main/img/ex.png" />
 </p>
 ${\color{red} ONE-Log}$	 <br />
+<span style="color: green"> ONE-Log </span>
+
 1-  ['RHOB'] <br />
 2-  ['PHIN'] <br />
 3-  ['VSH']<br />
