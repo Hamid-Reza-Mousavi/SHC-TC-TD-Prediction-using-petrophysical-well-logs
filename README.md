@@ -13,7 +13,6 @@ Keyword: Downhole methods; Heat ﬂow; Sedimentary basin processes; Heat generat
 </p>
 
 ${\color{red} ONE-Log}$   <br />
-
 1-  ['RHOB'] <br />
 2-  ['PHIN'] <br />
 3-  ['VSH']<br />
