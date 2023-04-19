@@ -1,4 +1,4 @@
-# Prediction of thermal conductivity (TC), thermal diffusivity (TD) and speciﬁc heat capacity (SHC) of sedimentary rocks using petrophysical well logs.
+# Prediction of Thermal Conductivity, Thermal Diffusivity, and Specific Heat Capacity of Sedimentary Rocks from Well Logs using Machine Learning Techniques: A Case Study
 ### Abstract <br />
 In this study, equations are developed that predict for synthetic sedimentary rocks (clastics,
 carbonates and evapourates) thermal properties comprising thermal conductivity, speciﬁc heat
