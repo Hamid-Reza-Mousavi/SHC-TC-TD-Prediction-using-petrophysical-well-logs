@@ -1,4 +1,4 @@
-# Prediction of Thermal Conductivity, Thermal Diffusivity, and Specific Heat Capacity of Sedimentary Rocks from Well Logs using Machine Learning Techniques
+# Machine Learning-Based Prediction of Thermal Properties of Sedimentary Rocks from Well-Log Data
 ### Abstract <br />
 In this study, equations are developed that predict for synthetic sedimentary rocks (clastics,
 carbonates and evapourates) thermal properties comprising thermal conductivity, speciﬁc heat
