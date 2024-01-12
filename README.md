@@ -12,13 +12,13 @@ Keyword: Downhole methods; Heat ﬂow; Sedimentary basin processes; Heat generat
   <img width="800" src="https://github.com/Hamid-Reza-Mousavi/SHC-TC-TD-Prediction-using-petrophysical-well-logs/blob/main/img/fig-guide.jpg" />
 </p>
 
-${\color{red} ONE-Log}$   <br />
+${\color{red} 1-Log}$   <br />
 1-  ['RHOB'] <br />
 2-  ['PHIN'] <br />
 3-  ['VSH']<br />
 4-  ['Vp'] <br />
 <br />
-${\color{red} TWO-Log}$	 <br />
+${\color{red} 2-Log}$	 <br />
 5-  ['RHOB', 'PHIN'] <br />
 6-  ['RHOB', 'VSH'] <br />
 7-  ['RHOB', 'Vp'] <br />
@@ -26,14 +26,15 @@ ${\color{red} TWO-Log}$	 <br />
 9- ['PHIN', 'Vp'] <br />
 10- ['VSH', 'Vp'] <br />
 <br />
-${\color{red} THREE-Log}$	 <br />
+${\color{red} 3-Log}$	 <br />
 11- ['RHOB', 'PHIN', 'VSH'] <br />
 12- ['RHOB', 'PHIN', 'Vp'] <br />
 13- ['RHOB', 'VSH', 'Vp'] <br />
 14- ['PHIN', 'VSH', 'Vp'] <br />
 
 <br />
-${\color{red} FOUR-Log}$	 <br />
+${\color{red} 4-Log}$	 <br />
 15- ['RHOB', 'PHIN', 'VSH', 'Vp'] <br />
+
 <hr />
 
