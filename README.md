@@ -1,10 +1,10 @@
 # Machine Learning-Based Prediction of Thermal Properties of Sedimentary Rocks from Well-Log Data
 ### Abstract <br />
-In this study, equations are developed that predict for synthetic sedimentary rocks (clastics,
+In this study, models are developed that predict for sedimentary rocks (clastics,
 carbonates and evapourates) thermal properties comprising thermal conductivity, speciﬁc heat
 capacity and thermal diffusivity.
 
-Keyword: Downhole methods; Heat ﬂow; Sedimentary basin processes; Heat generation and transport; Europe. 
+Keyword: Thermal conductivity; Thermal diffusivity; Heat capacity; Machine learning; Well-logging downhole methods; Sedimentary basin 
 
 ### Guide <br />
 <hr />
