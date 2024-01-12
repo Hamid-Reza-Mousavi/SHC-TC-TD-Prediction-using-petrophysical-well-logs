@@ -31,7 +31,6 @@ ${\color{red} 3-Log}$	 <br />
 12- ['RHOB', 'PHIN', 'Vp'] <br />
 13- ['RHOB', 'VSH', 'Vp'] <br />
 14- ['PHIN', 'VSH', 'Vp'] <br />
-
 <br />
 ${\color{red} 4-Log}$	 <br />
 15- ['RHOB', 'PHIN', 'VSH', 'Vp'] <br />
