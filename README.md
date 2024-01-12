@@ -62,29 +62,4 @@ ${\color{red} THREE-Log}$	 <br />
 ${\color{red} FOUR-Log}$	 <br />
 42- ['RHOB', 'PHIN', 'VSH', 'U'] <br />
 <hr />
-** Carbonates >>> Top SHC for each model (For Six-log) **
-
-| Model                                         | R2          | MAE            |      RMS       | 
-|-----------------------------------------------|:----------: |--------------- |----------------|
-| LinearRegression                              | **0.9980**  | **23.8965**    | **30.642**     | 
-| Polynomial regression (degree=2)              | **0.9993**  | **13.4732**    | **17.808**     |
-| XGB                                           | **0.9999**  | **1.4636**     | **2.4706**     | 
-
-** Carbonates >>> Top TC for each model (For Six-log) **
-
-| Model                                         | R2           | MAE            |      RMS       | 
-|-----------------------------------------------|:----------:  |--------------- |----------------|
-| LinearRegression                              | **0.9617**   | **0.1146**     | **0.156**      | 
-| Polynomial regression (degree=2)              | **0.9929**   | **0.0433**     | **0.067**      |
-| XGB                                           | **0.9995**   | **0.0102**     | **0.0174**     | 
-
-
-** Carbonates >>> Top TD for each model (For Six-log) **
-
-| Model                                         | R2          | MAE           |      RMS   | 
-|-----------------------------------------------|:----------: |---------------|----------------|
-| LinearRegression                              | **0.9724**  | **0.0490**    | **0.069**      | 
-| Polynomial regression (degree=2)              | **0.9912**  | **0.0236**    | **0.039**      |
-| XGB                                           | **0.9996**  | **0.0042**    | **0.0080**     | 
-
 
