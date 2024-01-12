@@ -9,7 +9,7 @@ Keyword: Thermal conductivity; Thermal diffusivity; Heat capacity; Machine learn
 ### Guide <br />
 <hr />
 <p align="center">
-  <img width="800" src="https://github.com/Hamid-Reza-Mousavi/SHC-TC-TD-Prediction-using-petrophysical-well-logs/blob/main/img/fig-guide.jpg" />
+  <img width="800" src="https://github.com/Hamid-Reza-Mousavi/SHC-TC-TD-Prediction-using-petrophysical-well-logs/blob/main/img/fig-guide1.jpg" />
 </p>
 
 ${\color{red} 1-Log}$   <br />
