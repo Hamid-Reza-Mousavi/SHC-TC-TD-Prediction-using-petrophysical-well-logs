@@ -61,31 +61,6 @@ ${\color{red} THREE-Log}$	 <br />
 <br />
 ${\color{red} FOUR-Log}$	 <br />
 42- ['RHOB', 'PHIN', 'VSH', 'U'] <br />
-43- ['RHOB', 'PHIN', 'VSH', 'DT'] <br />
-44- ['RHOB', 'PHIN', 'VSH', 'AI'] <br />
-45- ['RHOB', 'PHIN', 'U', 'DT'] <br />
-46- ['RHOB', 'PHIN', 'U', 'AI'] <br />
-47- ['RHOB', 'PHIN', 'DT', 'AI'] <br />
-48- ['RHOB', 'VSH', 'U', 'DT'] <br />
-49- ['RHOB', 'VSH', 'U', 'AI'] <br />
-50- ['RHOB', 'VSH', 'DT', 'AI'] <br />
-51- ['RHOB', 'U', 'DT', 'AI'] <br />
-52- ['PHIN', 'VSH', 'U', 'DT'] <br />
-53- ['PHIN', 'VSH', 'U', 'AI'] <br />
-54- ['PHIN', 'VSH', 'DT', 'AI'] <br />
-55- ['PHIN', 'U', 'DT', 'AI'] <br />
-56- ['VSH', 'U', 'DT', 'AI'] <br />
-<br />
-${\color{red} FIVE-Log}$	 <br />
-57- ['RHOB', 'PHIN', 'VSH', 'U', 'DT'] <br />
-58- ['RHOB', 'PHIN', 'VSH', 'U', 'AI'] <br />
-59- ['RHOB', 'PHIN', 'VSH', 'DT', 'AI'] <br />
-60- ['RHOB', 'PHIN', 'U', 'DT', 'AI'] <br />
-61- ['RHOB', 'VSH', 'U', 'DT', 'AI'] <br />
-62- ['PHIN', 'VSH', 'U', 'DT', 'AI'] <br />
-<br />
-${\color{red} SIX-Log}$	 <br />
-63- ['RHOB', 'PHIN', 'VSH', 'U', 'DT', 'AI'] <br />
 <hr />
 ** Carbonates >>> Top SHC for each model (For Six-log) **
 
