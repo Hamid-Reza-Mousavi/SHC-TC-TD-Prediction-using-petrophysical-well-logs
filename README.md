@@ -23,7 +23,7 @@ ${\color{red} 2-Log}$	 <br />
 6-  ['RHOB', 'VSH'] <br />
 7-  ['RHOB', 'Vp'] <br />
 8-  ['PHIN', 'VSH'] <br />
-9- ['PHIN', 'Vp'] <br />
+9-  ['PHIN', 'Vp'] <br />
 10- ['VSH', 'Vp'] <br />
 <br />
 ${\color{red} 3-Log}$	 <br />
