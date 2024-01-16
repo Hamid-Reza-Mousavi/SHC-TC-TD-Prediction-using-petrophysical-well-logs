@@ -8,12 +8,12 @@ Keyword: Thermal conductivity; Thermal diffusivity; Heat capacity; Machine learn
 
 ### Guide <br />
 if have problem ith load model
-1- create venv in below step:
-create virtual envirnment and install below pandas and scikit-learn version
+1- create virtual envirnment and install below versions library:
 -m venv thermal-venv
 thermal-venv\Scripts\activate
 pip install pandas==1.4.4
 pip install scikit-learn==1.2.1
+pip install xgboost==1.6.1
 
 2- Add venv to ipykernel (if use jupyter notebook)
 pip install ipykernel
