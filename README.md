@@ -7,17 +7,17 @@ capacity and thermal diffusivity.
 Keyword: Thermal conductivity; Thermal diffusivity; Heat capacity; Machine learning; Well-logging downhole methods; Sedimentary basin 
 
 ### Guide <br />
-if have problem ith load model
-1- create virtual envirnment and install below versions library:
--m venv thermal-venv
-thermal-venv\Scripts\activate
-pip install pandas==1.4.4
-pip install scikit-learn==1.2.1
-pip install xgboost==1.6.1
+if have problem ith load model <br />
+1- create virtual envirnment and install below versions library: <br />
+-m venv thermal-venv <br />
+thermal-venv\Scripts\activate <br />
+pip install pandas==1.4.4 <br />
+pip install scikit-learn==1.2.1 <br />
+pip install xgboost==1.6.1 <br />
 
-2- Add venv to ipykernel (if use jupyter notebook)
-pip install ipykernel
-python -m ipykernel install --user --name=thermal-venv
+2- Add venv to ipykernel (if use jupyter notebook) <br />
+pip install ipykernel <br />
+python -m ipykernel install --user --name=thermal-venv <br />
 
 <hr />
 <p align="center">
