@@ -9,7 +9,7 @@ Keyword: Thermal conductivity; Thermal diffusivity; Heat capacity; Machine learn
 ### Guide <br />
 If have problem with load model <br />
 1- Create virtual envirnment: <br />
--m venv thermal-venv <br />
+python -m venv thermal-venv <br />
 thermal-venv\Scripts\activate <br />
 2- Install below versions library: <br />
 pip install pandas==1.4.4 <br />
