@@ -13,6 +13,9 @@ python -m venv thermal-venv <br />
 thermal-venv\Scripts\activate <br />
 2- Install below versions library: <br />
 pip install pandas==1.4.4 <br />
+pip install numpy==1.22.4 <br />
+pip install joblib==1.2.0 <br />
+pip install matplotlib==3.8.1 <br />
 pip install scikit-learn==1.2.1 <br />
 pip install xgboost==1.6.1 <br />
 3- Add venv to ipykernel (if use jupyter notebook) <br />
