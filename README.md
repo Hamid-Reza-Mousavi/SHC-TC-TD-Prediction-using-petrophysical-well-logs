@@ -1,12 +1,13 @@
-# Machine Learning-Based Prediction of Thermal Properties of Sedimentary Rocks from Well-Log Data
-### Abstract <br />
+# `ThermoProfiler`: Machine Learning-Based Prediction of Thermal Properties of Sedimentary Rocks from Well-Log Data
+## Overview
 In this study, models are developed that predict for sedimentary rocks (clastics,
 carbonates and evapourates) thermal properties comprising thermal conductivity, speciﬁc heat
 capacity and thermal diffusivity.
 
 Keyword: Thermal conductivity; Thermal diffusivity; Heat capacity; Machine learning; Well-logging downhole methods; Sedimentary basin 
 
-### Guide <br />
+## Guide
+
 If have problem with load model <br />
 1- Create virtual environment (python 3.9.12): <br />
 ```
