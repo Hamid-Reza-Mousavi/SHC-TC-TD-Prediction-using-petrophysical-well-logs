@@ -42,7 +42,11 @@ pip install ipykernel
 ```
 python -m ipykernel install --user --name=thermal-venv
 ```
-
+### Examples
+Find multiple examples under:
+[https://github.com/Hamid-Reza-Mousavi/SHC-TC-TD-Prediction-using-petrophysical-well-logs/tree/main/notebook
+](https://github.com/Hamid-Reza-Mousavi/SHC-TC-TD-Prediction-using-petrophysical-well-logs/tree/main/notebook
+)
 <hr />
 <p align="center">
   <img width="800" src="https://github.com/Hamid-Reza-Mousavi/SHC-TC-TD-Prediction-using-petrophysical-well-logs/blob/main/img/fig-guide1.jpg" />
