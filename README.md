@@ -1,4 +1,4 @@
-# `ThermoProfiler`: Machine Learning-Based Prediction of Thermal Properties of Sedimentary Rocks from Well-Log Data
+# `ThermoProfiler`: machine learning-based prediction of thermal properties of sedimentary rocks from well-log data
 ## Overview
 In this study, models are developed that predict for sedimentary rocks (clastics,
 carbonates and evapourates) thermal properties comprising thermal conductivity, speciﬁc heat
