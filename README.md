@@ -47,7 +47,7 @@ Find multiple examples under:
 [https://github.com/Hamid-Reza-Mousavi/SHC-TC-TD-Prediction-using-petrophysical-well-logs/tree/main/notebook
 ](https://github.com/Hamid-Reza-Mousavi/SHC-TC-TD-Prediction-using-petrophysical-well-logs/tree/main/notebook
 )
-<hr />
+
 <p align="center">
   <img width="800" src="https://github.com/Hamid-Reza-Mousavi/SHC-TC-TD-Prediction-using-petrophysical-well-logs/blob/main/img/fig-guide1.jpg" />
 </p>
@@ -74,6 +74,4 @@ ${\color{red} 3-Log}$	 <br />
 <br />
 ${\color{red} 4-Log}$	 <br />
 15- ['RHOB', 'PHIN', 'VSH', 'Vp'] <br />
-
-<hr />
 
