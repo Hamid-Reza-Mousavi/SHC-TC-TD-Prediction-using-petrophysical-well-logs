@@ -69,3 +69,7 @@ ${\color{red} 3-Log}$	 <br />
 ${\color{red} 4-Log}$	 <br />
 15- ['RHOB', 'PHIN', 'VSH', 'Vp'] <br />
 
+## Acknowledgments
+This research was partially supported by Iran University of Science & Technology (IUST) and by the German project ThermoBase (BGE).
+
+
