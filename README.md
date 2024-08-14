@@ -1,14 +1,8 @@
 # Thermal-property profiles from well-logs in sedimentary rocks: a physically informed Machine-Learning based prediction tool (`ThermoProfiler`)
 ## Overview
-In this study, models are developed that predict for sedimentary rocks (clastics,
-carbonates and evapourates) thermal properties comprising thermal conductivity, speciﬁc heat
-capacity and thermal diffusivity.
-
-Keyword: Thermal conductivity; Thermal diffusivity; Heat capacity; Machine learning; Well-logging downhole methods; Sedimentary basin 
+Predicting thermal properties such as thermal conductivity, specific heat capacity, and thermal diffusivity is crucial for understanding heat flow in subsurface environments, particularly in sedimentary rock formations. These properties are essential for applications in geothermal energy, hydrocarbon exploration, and underground storage systems. Accurate predictions of thermal properties from well-log data enhance the ability to model subsurface temperature distributions, which are vital for assessing the viability of geothermal resources and optimizing drilling operations. The ThermoProfiler, a machine learning-based prediction tool, leverages well-logs to generate precise thermal-property profiles. By integrating physical principles with advanced machine learning techniques, ThermoProfiler provides a reliable and efficient method to estimate these critical thermal properties, ultimately aiding in the effective management and utilization of subsurface energy resources.
 
 ## Guide
-
-If have problem with load model <br />
 1- Create virtual environment (⚠️ python 3.9.12): <br />
 ```
 python -m venv thermal-venv
