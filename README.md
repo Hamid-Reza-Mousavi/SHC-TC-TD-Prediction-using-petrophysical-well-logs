@@ -1,9 +1,10 @@
 <h1>
   Thermal-property profiles from well-logs in sedimentary rocks: a physically informed Machine-Learning based prediction tool (<code>ThermoProfiler</code>)
-  <a href="https://doi.org/10.1093/gji/ggaf260">
+  <a href="https://doi.org/10.1093/gji/ggaf260" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/DOI-10.1093%2Fgji%2Fggaf260-blue" alt="DOI">
   </a>
 </h1>
+
 ## Overview
 
 Predicting thermal properties such as thermal conductivity, specific heat capacity, and thermal diffusivity is crucial for understanding heat flow in subsurface environments, particularly in sedimentary rock formations. These properties are essential for applications in geothermal energy, hydrocarbon exploration, and underground storage systems. Accurate predictions of thermal properties from well-log data enhance the ability to model subsurface temperature distributions, which are vital for assessing the viability of geothermal resources and optimizing drilling operations. The ThermoProfiler, a machine learning-based prediction tool, leverages well-logs to generate precise thermal-property profiles. By integrating physical principles with advanced machine learning techniques, ThermoProfiler provides a reliable and efficient method to estimate these critical thermal properties, ultimately aiding in the effective management and utilization of subsurface energy resources.
